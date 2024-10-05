@@ -1,0 +1,28 @@
+.header {
+  background-color: #3b3030;
+  color: #fff0d1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.body {
+  width: 80%;
+  margin: auto;
+  background-color: #fff0d1;
+  padding: 30px;
+  border-radius: 9px;
+  margin-top: 20px;
+  text-align: center;
+}
+.heading1 {
+  color: #664343;
+}
+.heading2 {
+  color: #795757;
+}
+.dropDown {
+  display: flex;
+  justify-content: flex-end;
+}
